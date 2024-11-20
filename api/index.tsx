@@ -64,6 +64,7 @@ app.frame('/', async (c) => {
           width: '100%',
         }}
       >
+        
         <div style={{
           fontSize: '32px',
           color: 'grey',
